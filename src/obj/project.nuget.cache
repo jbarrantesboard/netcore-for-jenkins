@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S84PhGUBwBlm0CYct3i+ALQaA+qb/fL6kSkkN8utFjnhBgJYrpcv/JSXwC+4qTxXYF4bB8rH5qIhQN9PXkUBjw==",
+  "success": true,
+  "projectFilePath": "D:\\Jhon\\5-Board\\study\\netcore\\netcore-for-jenkins\\src\\netcore-for-jenkins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carmen\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
